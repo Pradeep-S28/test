@@ -1,0 +1,12 @@
+body {
+  height: 100vh;
+  background-color: #ccc;
+  display: grid;
+  place-items: center;
+}
+
+.container {
+  width: 600px;
+  background-color: #fff;
+  padding: 30px;
+}
